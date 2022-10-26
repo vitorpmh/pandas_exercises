@@ -1,3 +1,9 @@
+This repo represents my pandas_exercises solutions from guipsamora list of exercises.
+
+[pandas_exercises](https://github.com/guipsamora/pandas_exercises)
+
+The text below is copied from the original repo.
+
 # Pandas Exercises
 
 Fed up with a ton of tutorials but no easy way to find exercises I decided to create a repo just with exercises to practice pandas.
